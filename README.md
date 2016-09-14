@@ -10,3 +10,6 @@ x2 + y2 + 4x - 6y –3 = 0. An example of an equation of an ellipse is: x2 + 4y2
 In this program you will be given the general form of the equation and must determine if it is a circle,
 an ellipse, a hyperbola or a parabola. Further, you will have to give certain other information about the 
 figure such as radius and center.
+
+To run this code use `javac Conics.java`"
+then `java Conics`
