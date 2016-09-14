@@ -1,4 +1,4 @@
-# Conics
+# ACSL-Conics
 
 From a 2001-2002 ACSL Senior Division Program
 
